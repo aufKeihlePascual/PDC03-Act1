@@ -1,4 +1,4 @@
-# activity1
+# M1 - Activity Lab 1
 
 First Flutter activity for PDC03.
 
