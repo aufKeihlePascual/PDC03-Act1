@@ -2,7 +2,7 @@
 
 First Flutter activity for PDC03.
 
-## Getting Started
+## Instructions
 
 Design a simple Flutter app based on the following specifications:
 - A header bar with the title: "Introduction to Flutter."
