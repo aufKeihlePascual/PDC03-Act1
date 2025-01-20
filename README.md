@@ -1,16 +1,11 @@
 # activity1
 
-A new Flutter project.
+First Flutter activity for PDC03.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design a simple Flutter app based on the following specifications:
+- A header bar with the title: "Introduction to Flutter."
+- A body section displaying:
+    - Your name and the text "PDC03 - Mobile Programming."
+    - A button labeled "Show Message" that, when pressed, displays the message "Welcome to Mobile Application Development!" (Hint: Use StatefulWidget).
